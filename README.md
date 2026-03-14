@@ -52,3 +52,14 @@
 为分担维护者的工作量，本仓库欢迎 Collaborator 加入。暂定要求为提供至少 5 个文件的信息，有 github 履历者优先。请 Collaborator 务必遵守仓库相关规则，维护仓库的秩序，保障仓库正常运作。
 
 ## 文件目录
+
+- [1-0.webp](1-0.webp) 家校协同图 _uploader: katurahinagiku_ _from:3月12日下午某节历史课_
+  > “家校协同”出处。公安局相关人士将对学校通报结果有异议的家长的个人信息发送给学校老师。
+- [1-1.webp](1-1.webp) 苏高中关于外卖的通知 _uploader: katurahinagiku_ _from:江苏省苏州中学学生处_
+  > 苏高中发布的公告，严格限制在校学生中午/晚上点外卖，称其“存在食品卫生安全隐患“。
+- [1-2.webp](1-2.webp) 事件原因相关聊天记录 _uploader: katurahinagiku_ _from:QQ 聊天_
+  > 图中显示多数学生就医检查出细菌感染，但疾控中心所述为诺如病毒。
+- [1-3.webp](1-3.webp) 某老师在群中的通知 _uploader: katurahinagiku_ _from:QQ 聊天_
+  > 家校协同图泄漏后老师的补救措施，要求学生用各种手段防止消息传播。
+- [1-4.webp](1-4.webp) 个人事件描述 _uploader: katurahinagiku_
+  > 苏州府学遭遇诺如袭击发生的故事。
